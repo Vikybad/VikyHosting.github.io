@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<script>
+	function evenodd()
+	{
+		let age=document.getElementById('n').value;
+		if(age<=18)
+		{
+			alert("You are not an adult.😶");
+		}
+		else if(age>80)
+		{
+			alert("You passed 80 years of your life.\nCongratulations...🎉🎉🎊🎊✨🧨🎆🎈");
+		}
+		else
+		{
+			alert("You are an adult.😉");
+		}
+	}
+</script>
+</head>
+<body>
+<h1>Welcome</h1>
+<h2 style="color:red">Check if you are adult or not...</h2>
+Enter your age: <input type="number" name="age" id="n">
+<button onclick="evenodd()">Check the number</button>
+
+</body>
+</html>
