@@ -21,6 +21,6 @@ I'm a aweb develepor as well as a Data Scientist....
 
 [__Adult or not__](Adult or not.html).
 
-### Jekyll Themes
+
 
 
