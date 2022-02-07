@@ -16,7 +16,7 @@ I'm a aweb develepor as well as a Data Scientist....
 1. Completed O-Level
 2. Pursuing Graduation
 
-[Link]My facebook profile link("http://https://www.facebook.com/VickyBadesara/")
+[Link]My facebook profile link(http://https://www.facebook.com/VickyBadesara/)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
