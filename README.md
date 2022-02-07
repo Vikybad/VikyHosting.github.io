@@ -19,7 +19,7 @@ I'm a aweb develepor as well as a Data Scientist....
 [My facebook profile link](https://www.facebook.com/VickyBadesara/)
 ```
 
-[Basic writing and formatting syntax]().
+[__Adult or not__](Adult or not.html).
 
 ### Jekyll Themes
 
