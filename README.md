@@ -22,5 +22,11 @@ I'm a aweb develepor as well as a Data Scientist....
 A simple program to check if you are: [__Adult or not__](Adult or not.html).
 
 
+```
+#**Let's play a game
+Choose the button Alerting to Viky 😎
+Lets [start](day2.html)
 
 
+
+```
