@@ -19,7 +19,7 @@ I'm a aweb develepor as well as a Data Scientist....
 [My facebook profile link](https://www.facebook.com/VickyBadesara).
 ```
 
-[__Adult or not__](Adult or not.html).
+A simple program to check if you are: [__Adult or not__](Adult or not.html).
 
 
 
